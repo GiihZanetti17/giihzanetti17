@@ -2,7 +2,7 @@
 
 - ✨ Today I work as a Web Designer.
 - 🌱 I'm studying Python.
-- 👩‍💻 06/08 Computer Science.
+- 👩‍💻 07/08 Computer Science.
 - 📫 How to reach me: giihzanetti19@hotmail.com.
 - 😄 Pronouns: she/her.
  
